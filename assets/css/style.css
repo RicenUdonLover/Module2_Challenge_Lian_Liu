@@ -261,18 +261,14 @@ footer {
   border: none;
   /* Remove borders */
   outline: none;
-  /* Remove outline */
-  background: rgba(55, 55, 55, 0.7);
-  color: white;
-  /* Text color */
+  /* Remove outline */  
+  background-color: rgba(170, 170, 170, 0.7);
   cursor: pointer;
   /* Add a mouse pointer on hover */
   padding: 15px;
   /* Some padding */
   border-radius: 10px;
   /* Rounded corners */
-  font-size: 12px;
-  /* Increase font size */
 }
 
 #bk2topBtn:hover {
@@ -344,7 +340,6 @@ footer {
     float: left;
     width: 100%;
   }
-
 }
 
 @media screen and (max-height: 450px) {
