@@ -11,7 +11,7 @@
 * A header was made so that it is easy to see what kind of webpage it is. The site title was renamed to show the content of the site.
 
 <div align="center">
-<img src="assets/images/header.JPG" alt="The header of the webpage" title="Click for bigger image" height="400">
+<img src="assets/images/header.JPG" alt="The header of the webpage" title="Click for bigger image" width="50%">
 </br>
 </div>
 
@@ -27,7 +27,7 @@
 * A brief introduction to the developer is added to the first section.
 
 <div align="center">
-<img src="assets/images/aboutme.jpg" alt="Some photos and texts about me" title="Click for bigger image" height="400">
+<img src="assets/images/aboutme.JPG" alt="Some photos and texts about me" title="Click for bigger image" height="400">
 </br>
 </div>
 
