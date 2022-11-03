@@ -15,12 +15,14 @@
 </br>
 </div>
 
+
 * A floating navigation bar was made to take the viewer to the corresponding sections.
 
 <div align="center">
-<img src="assets/images/nav.gif" alt="The header of the webpage" height="400">
+<img src="assets/images/nav.gif" alt="A navigation bar that brings you to different sections" height="400">
 </br>
 </div>
+
 
 * A brief introduction to the developer is added to the first section.
 
@@ -29,13 +31,39 @@
 </br>
 </div>
 
+
 * The developer's previous work were added to the second section. All the images will take the viewer to the deployed application.
 
 <div align="center">
-<img src="assets/images/work.gif" alt="The header of the webpage" height="400">
+<img src="assets/images/work.gif" alt="A GIF to show the work and the links to deployed application" height="400">
 </br>
 </div>
 
+
+* Links to the deployer's social media accounts were added so that the viewer can know more about the developer or contact him.
+
+<div align="center">
+<img src="assets/images/contact.gif" alt="Links to my social media accounts and my contact information" height="400">
+</br>
+</div>
+
+
+* A back to top button was added for fun :)
+
+<div align="center">
+<img src="assets/images/back2top.gif" alt="Play with the back to top button" height="400">
+</br>
+</div>
+
+
+* Media query was added to produce a responsive layout.
+
+<div align="center">
+<img src="assets/images/responsive.gif" alt="Example of responsive layout" height="400">
+</br>
+</div>
+
+##The objectives are accomplished! Yay! 
 
 
 ## Installation
