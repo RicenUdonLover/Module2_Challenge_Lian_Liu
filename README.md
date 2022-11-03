@@ -40,6 +40,6 @@
 
 ## Installation
 
-The project was uploaded to a [github](https://github.com/) repository. You can get access from: [here](https://github.com/https://github.com/RicenUdonLover/Moulde2_Challenge_Lian_Liu).
+The project was uploaded to a [github](https://github.com/) repository. You can get access from: [here](https://github.com/RicenUdonLover/Moulde2_Challenge_Lian_Liu).
 </br>
 You can also see the deployed webpage [over here](https://ricenudonlover.github.io/Moulde2_Challenge_Lian_Liu/).
